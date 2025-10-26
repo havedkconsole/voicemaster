@@ -1,7 +1,7 @@
 # voicemaster
-simple discod voice channel creater 
+simple discod voice channel creater in docker!
 
-#env variable
+env variable
 ```env
 #DISCORD_TOKEN=
 #GUILD_ID=
