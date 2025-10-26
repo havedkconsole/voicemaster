@@ -1,5 +1,5 @@
 # voicemaster
-simple discod voice channel creater in docker!
+simple discord voice channel creater in docker!
 
 env variable
 ```env
